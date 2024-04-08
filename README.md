@@ -20,32 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Concluir a Aula é a Meta
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste em fazer um trabalho com a IA de modo mais rápido possível
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Gamma.app
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei a teoria no chat gpt, assim consegui filtrar o conteúdo e utilizar para fazer slides utilizando a IA do Gamma. Assim, consegui fazer o slide para apresentação de um trabalho da faculdade sobre as 5 Forças de Porter
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+As IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento, ajudando a economizar o tempo para fazer o que a gente quer, como a gente quer
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+https://gamma.app/docs/A-atuacao-da-Microsoft-no-mercado-de-games-e-consoles-x83l6jno4wlm336?mode=doc
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+https://gamma.app/
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
